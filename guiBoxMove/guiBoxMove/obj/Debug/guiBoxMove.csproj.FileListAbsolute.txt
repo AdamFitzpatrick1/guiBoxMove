@@ -1,0 +1,9 @@
+H:\C# projects\guiBoxMove\guiBoxMove\bin\Debug\guiBoxMove.exe.config
+H:\C# projects\guiBoxMove\guiBoxMove\bin\Debug\guiBoxMove.exe
+H:\C# projects\guiBoxMove\guiBoxMove\bin\Debug\guiBoxMove.pdb
+H:\C# projects\guiBoxMove\guiBoxMove\obj\Debug\guiBoxMove.csprojResolveAssemblyReference.cache
+H:\C# projects\guiBoxMove\guiBoxMove\obj\Debug\guiBoxMove.frmMain.resources
+H:\C# projects\guiBoxMove\guiBoxMove\obj\Debug\guiBoxMove.Properties.Resources.resources
+H:\C# projects\guiBoxMove\guiBoxMove\obj\Debug\guiBoxMove.csproj.GenerateResource.Cache
+H:\C# projects\guiBoxMove\guiBoxMove\obj\Debug\guiBoxMove.exe
+H:\C# projects\guiBoxMove\guiBoxMove\obj\Debug\guiBoxMove.pdb
